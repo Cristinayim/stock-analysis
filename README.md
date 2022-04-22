@@ -5,8 +5,8 @@ The purpose of this analysis is to refactor the Module 2 solution code to loop t
 
 ##2. Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-![screen shot](/Resources module 2/Screen Shot 2022-04-20 at 9.41.53 PM.png)
-![screen shot](/Resources module 2/Screen Shot 2022-04-20 at 9.42.27 PM.png)
+![2017 screen shot](https://github.com/Cristinayim/stock-analysis/blob/main/Resources%20module%202/Screen%20Shot%202022-04-20%20at%209.41.53%20PM.png?raw=true)
+![2018 screen shot](https://github.com/Cristinayim/stock-analysis/blob/main/Resources%20module%202/Screen%20Shot%202022-04-20%20at%209.42.27%20PM.png?raw=true)
 
 
 ##3.Summary: In a summary statement, address the following questions.
